@@ -7,6 +7,8 @@ What I learnt:
 - HTTP requests with Fetch API
 - Conditional chaining operator (?)
 
+I have used vite for the react setup. For more info: https://vitejs.dev/guide/
+
 Website Link: https://khushie45-quote-generator.netlify.app/
 
 Screenshots:
