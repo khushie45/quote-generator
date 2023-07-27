@@ -1,8 +1,16 @@
-# React + Vite
+# Quote Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using external APIs and making HTTP requests are an essential part of any React application. To learn how to make HTTP requests in React, I have made a random quote generator.
 
-Currently, two official plugins are available:
+What I learnt:
+- useEffect (to perform side effects)
+- HTTP requests with Fetch API
+- Conditional chaining operator (?)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Website Link: https://khushie45-quote-generator.netlify.app/
+
+Screenshots:
+![image](https://github.com/khushie45/quote-generator/assets/77206916/1aebfbc2-3527-4366-bdae-8bd83583e695)
+
+![image](https://github.com/khushie45/quote-generator/assets/77206916/6956b440-1c73-49f4-b1ca-b54284552a84)
+
